@@ -135,7 +135,7 @@ body{
     flex-direction: column;
     padding: 18px 0px;
     align-items: center;
-    background-color: white;
+    background-color: rgba(167, 167, 167, 0.953);
     box-shadow: rgba(0, 0, 0, 0.4) 0px 2px 4px, rgba(0, 0, 0, 0.3) 0px 7px 13px -3px, rgba(0, 0, 0, 0.2) 0px -3px 0px inset;
 
 }
