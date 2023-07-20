@@ -28,6 +28,7 @@ let fetchApi = async () => {
                   ${x.title}
                    </p>
               <img class="apiimages" src=${x.image}>
+              <p>$ ${x.price}</p>
               </div>`
     })}</div>`
 
