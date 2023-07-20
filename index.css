@@ -28,6 +28,7 @@ body{
 .Nav ul{
     display: flex;
     align-items: center;
+    justify-content: center;
     list-style: none;
     gap: 10px;
 }
@@ -203,3 +204,37 @@ body{
 .apiimages{
     height: 120px;
 }
+
+
+@media (max-width: 500px) {
+
+    * {
+
+        font-size: 13px;
+
+        
+        
+ 
+    }
+    .Nav ul li{
+        margin: 0px;
+    }
+
+}
+
+
+/* .Nav ul{
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            list-style: none;
+            gap: 10px;
+        }
+        
+        .Nav ul li{
+            margin: 5px 15px;
+            border-radius: 15px;
+            padding: 10px;
+             font-weight: 800;
+            
+        } */
